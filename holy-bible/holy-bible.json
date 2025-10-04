@@ -1,0 +1,9 @@
+{
+  "id": "holy-bible",
+  "name": "The Holy Bible",
+  "links": {
+    "about": "https://en.wikipedia.org/wiki/Bible",
+    "read": "https://www.bible.com/versions",
+    "metadata": "./holy-bible.metadata.json"
+  }
+}

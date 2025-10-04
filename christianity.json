@@ -1,0 +1,8 @@
+{
+  "id": "christianity",
+  "name": "Christianity",
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/8/87/Christian_cross.svg",
+  "link": "https://en.wikipedia.org/wiki/Christianity",
+  "aliases": ["Christian"],
+  "texts": ["holy-bible"]
+}
